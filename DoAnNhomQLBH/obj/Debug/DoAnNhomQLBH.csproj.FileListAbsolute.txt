@@ -1,0 +1,109 @@
+D:\project\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\DoAnNhomQLBH.exe.config
+C:\Users\pc\Desktop\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\DoAnNhomQLBH.exe.config
+C:\Users\pc\Desktop\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\DoAnNhomQLBH.exe
+C:\Users\pc\Desktop\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\DoAnNhomQLBH.pdb
+C:\Users\pc\Desktop\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\EntityFramework.dll
+C:\Users\pc\Desktop\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\Desktop\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\EntityFramework.xml
+C:\Users\pc\Desktop\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\Desktop\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.FormDangNhap.resources
+C:\Users\pc\Desktop\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.Properties.Resources.resources
+C:\Users\pc\Desktop\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.exe
+C:\Users\pc\Desktop\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.pdb
+C:\Users\pc\Desktop\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.FKhachHang.resources
+C:\Users\Admin\Desktop\New folder\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\DoAnNhomQLBH.exe.config
+C:\Users\Admin\Desktop\New folder\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.exe
+C:\Users\Admin\Desktop\New folder\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.pdb
+C:\Users\Admin\Desktop\New folder\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\DoAnNhomQLBH.exe
+C:\Users\Admin\Desktop\New folder\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\DoAnNhomQLBH.pdb
+C:\Users\Admin\Desktop\New folder\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\New folder\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\New folder\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\New folder\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\New folder\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\New folder\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.FChiTietDonHang.resources
+C:\Users\Admin\Desktop\New folder\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.FDonHang.resources
+C:\Users\Admin\Desktop\New folder\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.FHomeAdmin.resources
+C:\Users\Admin\Desktop\New folder\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.FKhachHang.resources
+C:\Users\Admin\Desktop\New folder\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.FNhanVien.resources
+C:\Users\Admin\Desktop\New folder\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.FormDangNhap.resources
+C:\Users\Admin\Desktop\New folder\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.FSanPham.resources
+C:\Users\Admin\Desktop\New folder\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.Properties.Resources.resources
+C:\Users\Admin\Desktop\New folder\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.FChiTietDonHang.resources
+C:\Users\pc\Desktop\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.FDonHang.resources
+C:\Users\pc\Desktop\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.FHomeAdmin.resources
+C:\Users\pc\Desktop\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.FNhanVien.resources
+C:\Users\pc\Desktop\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.FSanPham.resources
+C:\Users\pc\Desktop\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.FDatHang.resources
+C:\Users\Admin\Desktop\New folder\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.FDatHang.resources
+D:\LapTrinhCoSoDuLieu\DoAnNhom\QLBH3\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\DoAnNhomQLBH.exe.config
+D:\LapTrinhCoSoDuLieu\DoAnNhom\QLBH3\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.exe
+D:\LapTrinhCoSoDuLieu\DoAnNhom\QLBH3\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.pdb
+D:\LapTrinhCoSoDuLieu\DoAnNhom\QLBH3\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\DoAnNhomQLBH.exe
+D:\LapTrinhCoSoDuLieu\DoAnNhom\QLBH3\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\DoAnNhomQLBH.pdb
+D:\LapTrinhCoSoDuLieu\DoAnNhom\QLBH3\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\EntityFramework.dll
+D:\LapTrinhCoSoDuLieu\DoAnNhom\QLBH3\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\EntityFramework.SqlServer.dll
+D:\LapTrinhCoSoDuLieu\DoAnNhom\QLBH3\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\EntityFramework.xml
+D:\LapTrinhCoSoDuLieu\DoAnNhom\QLBH3\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\EntityFramework.SqlServer.xml
+D:\LapTrinhCoSoDuLieu\DoAnNhom\QLBH3\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.csprojResolveAssemblyReference.cache
+D:\LapTrinhCoSoDuLieu\DoAnNhom\QLBH3\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.FChiTietDonHang.resources
+D:\LapTrinhCoSoDuLieu\DoAnNhom\QLBH3\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.FDatHang.resources
+D:\LapTrinhCoSoDuLieu\DoAnNhom\QLBH3\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.FDonHang.resources
+D:\LapTrinhCoSoDuLieu\DoAnNhom\QLBH3\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.FHomeAdmin.resources
+D:\LapTrinhCoSoDuLieu\DoAnNhom\QLBH3\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.FKhachHang.resources
+D:\LapTrinhCoSoDuLieu\DoAnNhom\QLBH3\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.FNhanVien.resources
+D:\LapTrinhCoSoDuLieu\DoAnNhom\QLBH3\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.FormDangNhap.resources
+D:\LapTrinhCoSoDuLieu\DoAnNhom\QLBH3\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.FSanPham.resources
+D:\LapTrinhCoSoDuLieu\DoAnNhom\QLBH3\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.Properties.Resources.resources
+D:\LapTrinhCoSoDuLieu\DoAnNhom\QLBH3\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.FDangKy.resources
+D:\LapTrinhCoSoDuLieu\DoAnNhom\QLBH3\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.FDangKy.resources
+C:\Users\pc\Desktop\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\pc\Desktop\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\pc\Desktop\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\pc\Desktop\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\pc\Desktop\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\FlashControlV71.dll
+C:\Users\pc\Desktop\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\pc\Desktop\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\pc\Desktop\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\pc\Desktop\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\pc\Desktop\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\pc\Desktop\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\pc\Desktop\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\pc\Desktop\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\pc\Desktop\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\pc\Desktop\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\pc\Desktop\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\pc\Desktop\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\pc\Desktop\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\pc\Desktop\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\stdole.dll
+C:\Users\pc\Desktop\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.FReport.resources
+C:\Users\pc\Desktop\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\bt_winform\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\DoAnNhomQLBH.exe.config
+C:\Users\Admin\Desktop\bt_winform\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.exe
+C:\Users\Admin\Desktop\bt_winform\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.pdb
+C:\Users\Admin\Desktop\bt_winform\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\DoAnNhomQLBH.exe
+C:\Users\Admin\Desktop\bt_winform\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\DoAnNhomQLBH.pdb
+C:\Users\Admin\Desktop\bt_winform\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\bt_winform\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\bt_winform\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\stdole.dll
+C:\Users\Admin\Desktop\bt_winform\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\bt_winform\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\bt_winform\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\bt_winform\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.FChiTietDonHang.resources
+C:\Users\Admin\Desktop\bt_winform\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.FDangKy.resources
+C:\Users\Admin\Desktop\bt_winform\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.FDatHang.resources
+C:\Users\Admin\Desktop\bt_winform\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.FDonHang.resources
+C:\Users\Admin\Desktop\bt_winform\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.FHomeAdmin.resources
+C:\Users\Admin\Desktop\bt_winform\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.FKhachHang.resources
+C:\Users\Admin\Desktop\bt_winform\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.FNhanVien.resources
+C:\Users\Admin\Desktop\bt_winform\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.FormDangNhap.resources
+C:\Users\Admin\Desktop\bt_winform\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.FReport.resources
+C:\Users\Admin\Desktop\bt_winform\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.FSanPham.resources
+C:\Users\Admin\Desktop\bt_winform\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.Properties.Resources.resources
+C:\Users\Admin\Desktop\bt_winform\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\New folder\DoAnNhomQLBH\DoAnNhomQLBH\bin\Debug\stdole.dll
+C:\Users\Admin\Desktop\New folder\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.FDangKy.resources
+C:\Users\Admin\Desktop\New folder\DoAnNhomQLBH\DoAnNhomQLBH\obj\Debug\DoAnNhomQLBH.FReport.resources

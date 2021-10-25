@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AB9DB137-1CF3-455B-A0D1-9C7C164CD247}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DoAnNhomQLBH</RootNamespace>
+    <AssemblyName>DoAnNhomQLBH</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BUS\BUS_CTDonHang.cs" />
+    <Compile Include="BUS\BUS_DangKy.cs" />
+    <Compile Include="BUS\BUS_DangNhap.cs" />
+    <Compile Include="BUS\BUS_DatHang.cs" />
+    <Compile Include="BUS\BUS_DonHang.cs" />
+    <Compile Include="BUS\BUS_HomeAdmin.cs" />
+    <Compile Include="BUS\BUS_KhachHang.cs" />
+    <Compile Include="BUS\BUS_NhanVien.cs" />
+    <Compile Include="BUS\BUS_SanPham.cs" />
+    <Compile Include="CTDH.cs">
+      <DependentUpon>QLBanHangEF.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DAO\DAO_CTDonHang.cs" />
+    <Compile Include="DAO\DAO_DangKy.cs" />
+    <Compile Include="DAO\DAO_DangNhap.cs" />
+    <Compile Include="DAO\DAO_DatHang.cs" />
+    <Compile Include="DAO\DAO_DonHang.cs" />
+    <Compile Include="DAO\DAO_HomeAdmin.cs" />
+    <Compile Include="DAO\DAO_KhachHang.cs" />
+    <Compile Include="DAO\DAO_NhanVien.cs" />
+    <Compile Include="DAO\DAO_SanPham.cs" />
+    <Compile Include="DonHang.cs">
+      <DependentUpon>QLBanHangEF.tt</DependentUpon>
+    </Compile>
+    <Compile Include="FChiTietDonHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FChiTietDonHang.Designer.cs">
+      <DependentUpon>FChiTietDonHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FDangKy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FDangKy.Designer.cs">
+      <DependentUpon>FDangKy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FDatHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FDatHang.Designer.cs">
+      <DependentUpon>FDatHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FDonHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FDonHang.Designer.cs">
+      <DependentUpon>FDonHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FHomeAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FHomeAdmin.Designer.cs">
+      <DependentUpon>FHomeAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FKhachHang.Designer.cs">
+      <DependentUpon>FKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FNhanVien.Designer.cs">
+      <DependentUpon>FNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDangNhap.Designer.cs">
+      <DependentUpon>FormDangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FReport.Designer.cs">
+      <DependentUpon>FReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FSanPham.Designer.cs">
+      <DependentUpon>FSanPham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhachHang.cs">
+      <DependentUpon>QLBanHangEF.tt</DependentUpon>
+    </Compile>
+    <Compile Include="LoaiSP.cs">
+      <DependentUpon>QLBanHangEF.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Nhanvien.cs">
+      <DependentUpon>QLBanHangEF.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QLBanHangEF.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLBanHangEF.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="QLBanHangEF.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLBanHangEF.tt</DependentUpon>
+    </Compile>
+    <Compile Include="QLBanHangEF.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLBanHangEF.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Report\CRSanPham.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CRSanPham.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SanPham.cs">
+      <DependentUpon>QLBanHangEF.tt</DependentUpon>
+    </Compile>
+    <Compile Include="sysdiagram.cs">
+      <DependentUpon>QLBanHangEF.tt</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FChiTietDonHang.resx">
+      <DependentUpon>FChiTietDonHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FDangKy.resx">
+      <DependentUpon>FDangKy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FDatHang.resx">
+      <DependentUpon>FDatHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FDonHang.resx">
+      <DependentUpon>FDonHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FHomeAdmin.resx">
+      <DependentUpon>FHomeAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FKhachHang.resx">
+      <DependentUpon>FKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FNhanVien.resx">
+      <DependentUpon>FNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDangNhap.resx">
+      <DependentUpon>FormDangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FReport.resx">
+      <DependentUpon>FReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FSanPham.resx">
+      <DependentUpon>FSanPham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Report\CRSanPham.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CRSanPham.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <EntityDeploy Include="QLBanHangEF.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>QLBanHangEF.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="QLBanHangEF.edmx.diagram">
+      <DependentUpon>QLBanHangEF.edmx</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="images\0912hoodiewashedbe.jpg" />
+    <Content Include="images\0912hoodiewashedblack.jpg" />
+    <Content Include="images\0912logohoodiewashed.jpg" />
+    <Content Include="images\AoHoodieCam.jpg" />
+    <Content Include="images\AoHoodieDen.jpg" />
+    <Content Include="images\AoHoodieXam.jpg" />
+    <Content Include="images\aopolosocgray.jpg" />
+    <Content Include="images\aopoloxanh.jpg" />
+    <Content Include="images\AoSoMiCaRoDo.jpg" />
+    <Content Include="images\aosomicarongantaytrang.jpg" />
+    <Content Include="images\aosomicarongantayvang.jpg" />
+    <Content Include="images\AoSoMiCaRoVang.jpg" />
+    <Content Include="images\AoThunCam.jpg" />
+    <Content Include="images\AoThunDen.jpg" />
+    <Content Include="images\AoThunNau.jpg" />
+    <Content Include="images\AoThunNauNhat.jpg" />
+    <Content Include="images\AoThunTrang.jpg" />
+    <Content Include="images\AoThunXam.jpg" />
+    <Content Include="images\AoThunXam2.jpg" />
+    <Content Include="images\AoThunXamNhat.jpg" />
+    <Content Include="images\AoThunXanhLa.jpg" />
+    <Content Include="images\aoutandyxam.jpg" />
+    <Content Include="images\aoutanimalnavy.jpg" />
+    <Content Include="images\aoutanimaltrang.jpg" />
+    <Content Include="images\aoutanimalxanh.jpg" />
+    <Content Include="images\aoutmarvel.jpg" />
+    <Content Include="images\aoutmonsterbe.jpg" />
+    <Content Include="images\aoutpeanutbe.jpg" />
+    <Content Include="images\aoutthebrandsden.jpg" />
+    <Content Include="images\aozaraden.jpg" />
+    <Content Include="images\aozaranaunhat.jpg" />
+    <Content Include="images\aozaratim.jpg" />
+    <Content Include="images\curvejeanblackowst.jpg" />
+    <Content Include="images\hinhnen.gif" />
+    <Content Include="images\jeanregularfitnavy.jpg" />
+    <Content Include="images\jeanslimfitblue.jpg" />
+    <Content Include="images\quandeepsealider.jpg" />
+    <Content Include="images\quandryshortnavy.jpg" />
+    <Content Include="images\quanjoggerowstblack.jpg" />
+    <Content Include="images\quanjoggerowstdarkgray.jpg" />
+    <Content Include="images\quanlacvietowst.jpg" />
+    <Content Include="images\quanshortlidertrang.jpg" />
+    <Content Include="images\quantaybeuniqlo.jpg" />
+    <Content Include="images\shortowstblack.jpg" />
+    <Content Include="images\shortowstgray.jpg" />
+    <Content Include="images\tomjeanlider.jpg" />
+    <Content Include="images\TuiHoaTietCam.jpg" />
+    <Content Include="images\TuiHoaTietDen.jpg" />
+    <Content Include="images\TuiHoaTietTrang.jpg" />
+    <Content Include="images\TuiKhongHoaTiet.jpg" />
+    <Content Include="images\unclejeanlider.jpg" />
+    <Content Include="QLBanHangEF.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>QLBanHangEF.edmx</DependentUpon>
+      <LastGenOutput>QLBanHangEF.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="QLBanHangEF.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>QLBanHangEF.edmx</DependentUpon>
+      <LastGenOutput>QLBanHangEF.cs</LastGenOutput>
+    </Content>
+    <Content Include="Resources\avtnam.png" />
+    <Content Include="Resources\avtnu.jpg" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
